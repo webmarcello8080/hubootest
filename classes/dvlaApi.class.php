@@ -1,6 +1,7 @@
 <?php
 
-//call the api and return result
+// call the api and return result
+// translate json to object and return it
 // XX44SDF
 // WV65KPY
 // LS52LHE
